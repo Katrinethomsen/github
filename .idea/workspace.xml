@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89b72667-deb9-4d66-88f7-3c1d75134cd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/github.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hJlhRAwqXlpmIGnNRVg5q6kCiN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89b72667-deb9-4d66-88f7-3c1d75134cd4" name="Default Changelist" comment="" />
+      <created>1599737195482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599737195482</updated>
+      <workItem from="1599737197036" duration="1007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="314" key="Github.ShareDialog" timestamp="1599738608519">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="588" y="314" key="Github.ShareDialog/0.23.1440.811@0.23.1440.811" timestamp="1599738608519" />
+    <state x="486" y="115" key="Github.UntrackedFilesDialog" timestamp="1599738618519">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="486" y="115" key="Github.UntrackedFilesDialog/0.23.1440.811@0.23.1440.811" timestamp="1599738618519" />
+    <state x="152" y="112" key="SettingsEditor" timestamp="1599738695694">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="152" y="112" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1599738695694" />
+    <state x="380" y="158" key="search.everywhere.popup" timestamp="1599738649864">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="380" y="158" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1599738649864" />
+  </component>
+</project>
